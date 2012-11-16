@@ -4,3 +4,18 @@
 *.jar
 *.war
 *.ear
+
+# Eclipse files
+
+.project
+.settings
+.classpath
+
+# maven folders
+
+target
+load
+felix-cache
+
+# other folders
+bin
